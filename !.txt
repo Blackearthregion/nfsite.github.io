@@ -1,0 +1,4 @@
+.headbutton {
+	width: 33vh;
+
+}
